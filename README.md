@@ -1,2 +1,2 @@
 # Dev-Notes
- Notes I take for learing coding 
+ Notes I take to learn coding!
