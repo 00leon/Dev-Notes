@@ -13,3 +13,7 @@
 **element** 
 - elements is basically when you fill the blank inside a tag
 - ex: <p> this is a pragraph</p>
+
+**DOM TREE** 
+- The hierarchy and structure of HTML elements, often ysed for trageting elements in CSS and JS.
+- Using certain elements in HTML will affects the user experience of that web page.
