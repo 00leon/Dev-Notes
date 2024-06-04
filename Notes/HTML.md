@@ -21,3 +21,8 @@
 
 ### Headlines 
 - Use the 6 headlines options to make semantic hierachy when doing HTMl coding
+
+### Text (bold and italic)
+- Italic you can use **<em>** or **<i>**
+- Use **<em>** to empahized a word 
+- Use **<i>** to differenciate a word ie: a title of a movie.
